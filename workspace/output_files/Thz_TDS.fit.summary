@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Apr 22 16:38:19 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : Thz_TDS
+Top-level Entity Name : Top
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,459 / 10,320 ( 14 % )
+    Total combinational functions : 835 / 10,320 ( 8 % )
+    Dedicated logic registers : 1,206 / 10,320 ( 12 % )
+Total registers : 1206
+Total pins : 5 / 180 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 370,688 / 423,936 ( 87 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

@@ -1,0 +1,6 @@
+
+State Machine - |Top|sys_control:u_sys_control|sys_status
+Name sys_status.000 sys_status.010 sys_status.001 
+sys_status.000 0 0 0 
+sys_status.001 1 0 1 
+sys_status.010 1 1 0 
